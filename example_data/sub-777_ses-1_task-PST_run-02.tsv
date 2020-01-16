@@ -1,105 +1,105 @@
-stimulus_pair onset         duration      trial_type    trial_number  correct_response            response      response_time stim_file_left              stim_file_right             stim_type_left              stim_type_right
-BE             8.272         2.5          Testing        61           1             E              0.968        stimuli/2.jpeg              stimuli/1.jpeg              E             B
-BE             13.073        2.5          Testing        62           1             E              1.563        stimuli/2.jpeg              stimuli/1.jpeg              E             B
-BF             19.075        2.5          Testing        63           2             F              1.32         stimuli/1.jpeg              stimuli/4.jpeg              B             F
-AD             24.877        2.5          Testing        64           1             A              0.712        stimuli/3.jpeg              stimuli/5.jpeg              A             D
-BD             29.278        2.5          Testing        65           2             D              0.652        stimuli/1.jpeg              stimuli/5.jpeg              B             D
-AF             34.48         2.5          Testing        66           2             A              0.884        stimuli/4.jpeg              stimuli/3.jpeg              F             A
-BD             38.281        2.5          Testing        67           2             D              1.569        stimuli/1.jpeg              stimuli/5.jpeg              B             D
-DF             43.083        2.5          Testing        68           1             D              1.092        stimuli/5.jpeg              stimuli/4.jpeg              D             F
-BE             47.484        2.5          Testing        69           2             E              0.674        stimuli/1.jpeg              stimuli/2.jpeg              B             E
-BE             52.686        2.5          Testing        70           1             E              1.329        stimuli/2.jpeg              stimuli/1.jpeg              E             B
-DF             58.687        2.5          Testing        71           1             D              0.86         stimuli/5.jpeg              stimuli/4.jpeg              D             F
-AC             62.489        2.5          Testing        72           1             C              1.678        stimuli/6.jpeg              stimuli/3.jpeg              C             A
-AE             68.29         2.5          Testing        73           2             A              1.194        stimuli/2.jpeg              stimuli/3.jpeg              E             A
-BE             74.292        2.5          Testing        74           2             B              1.139        stimuli/2.jpeg              stimuli/1.jpeg              E             B
-CE             78.093        2.5          Testing        75           2             C              1.718        stimuli/2.jpeg              stimuli/6.jpeg              E             C
-BC             82.495        2.5          Testing        76           1             C              1.214        stimuli/6.jpeg              stimuli/1.jpeg              C             B
-DE             87.296        2.5          Testing        77           1             E              1.069        stimuli/2.jpeg              stimuli/5.jpeg              E             D
-DE             93.098        2.5          Testing        78           2             E              1.319        stimuli/5.jpeg              stimuli/2.jpeg              D             E
-AE             98.3          2.5          Testing        79           2             A              1.413        stimuli/2.jpeg              stimuli/3.jpeg              E             A
-AE             102.701       2.5          Testing        80           1             E              1.242        stimuli/2.jpeg              stimuli/3.jpeg              E             A
-BD             107.503       2.5          Testing        81           1             D              0.786        stimuli/5.jpeg              stimuli/1.jpeg              D             B
-BC             113.504       2.5          Testing        82           2             C              0.926        stimuli/1.jpeg              stimuli/6.jpeg              B             C
-AD             117.306       2.5          Testing        83           2             A              1.842        stimuli/5.jpeg              stimuli/3.jpeg              D             A
-AF             122.507       2.5          Testing        84           2             A              0.96         stimuli/4.jpeg              stimuli/3.jpeg              F             A
-DE             128.309       2.5          Testing        85           2             E              0.972        stimuli/5.jpeg              stimuli/2.jpeg              D             E
-AC             134.311       2.5          Testing        86           1             A              1.772        stimuli/3.jpeg              stimuli/6.jpeg              A             C
-AF             138.112       2.5          Testing        87           1             A              1.206        stimuli/3.jpeg              stimuli/4.jpeg              A             F
-BE             143.914       2.5          Testing        88           2             E              1.135        stimuli/1.jpeg              stimuli/2.jpeg              B             E
-AD             148.315       2.5          Testing        89           1             A              1.655        stimuli/3.jpeg              stimuli/5.jpeg              A             D
-DE             153.517       2.5          Testing        90           2             D              1.852        stimuli/2.jpeg              stimuli/5.jpeg              E             D
-AC             158.318       2.5          Testing        91           1             A              1.514        stimuli/3.jpeg              stimuli/6.jpeg              A             C
-AF             164.12        2.5          Testing        92           2             A              1.805        stimuli/4.jpeg              stimuli/3.jpeg              F             A
-AD             170.122       2.5          Testing        93           1             A              1.595        stimuli/3.jpeg              stimuli/5.jpeg              A             D
-CF             174.923       2.5          Testing        94           1             F              1.565        stimuli/4.jpeg              stimuli/6.jpeg              F             C
-AF             178.725       2.5          Testing        95           1             A              1.372        stimuli/3.jpeg              stimuli/4.jpeg              A             F
-AF             183.126       2.5          Testing        96           1             A              1.015        stimuli/3.jpeg              stimuli/4.jpeg              A             F
-BE             188.328       2.5          Testing        97           2             E              1.453        stimuli/1.jpeg              stimuli/2.jpeg              B             E
-AE             193.129       2.5          Testing        98           1             A              0.83         stimuli/3.jpeg              stimuli/2.jpeg              A             E
-BF             196.93        2.5          Testing        99           2             B              1.731        stimuli/4.jpeg              stimuli/1.jpeg              F             B
-DF             201.332       2.5          Testing        100          1             D              1.045        stimuli/5.jpeg              stimuli/4.jpeg              D             F
-AD             207.333       2.5          Testing        101          2             A              0.626        stimuli/5.jpeg              stimuli/3.jpeg              D             A
-BC             213.135       2.5          Testing        102          1             C              0.734        stimuli/6.jpeg              stimuli/1.jpeg              C             B
-CE             218.337       2.5          Testing        103          1             E              1.512        stimuli/2.jpeg              stimuli/6.jpeg              E             C
-AE             222.138       2.5          Testing        104          1             A              1.105        stimuli/3.jpeg              stimuli/2.jpeg              A             E
-BF             226.539       2.5          Testing        105          1             F              1.105        stimuli/4.jpeg              stimuli/1.jpeg              F             B
-AC             232.341       2.5          Testing        106          1             A              1.047        stimuli/3.jpeg              stimuli/6.jpeg              A             C
-AC             238.343       2.5          Testing        107          1             A              1.862        stimuli/3.jpeg              stimuli/6.jpeg              A             C
-BD             243.145       2.5          Testing        108          1             D              1.163        stimuli/5.jpeg              stimuli/1.jpeg              D             B
-CE             248.346       2.5          Testing        109          1             C              1.497        stimuli/6.jpeg              stimuli/2.jpeg              C             E
-AD             254.348       2.5          Testing        110          1             A              1.356        stimuli/3.jpeg              stimuli/5.jpeg              A             D
-BC             260.15        2.5          Testing        111          1             B              0.87         stimuli/1.jpeg              stimuli/6.jpeg              B             C
-BD             264.951       2.5          Testing        112          2             D              0.89         stimuli/1.jpeg              stimuli/5.jpeg              B             D
-AC             268.753       2.5          Testing        113          1             C              0.71         stimuli/6.jpeg              stimuli/3.jpeg              C             A
-AD             273.954       2.5          Testing        114          2             A              1.336        stimuli/5.jpeg              stimuli/3.jpeg              D             A
-CE             278.355       2.5          Testing        115          1             C              0.743        stimuli/6.jpeg              stimuli/2.jpeg              C             E
-AC             283.157       2.5          Testing        116          1             C              1.817        stimuli/6.jpeg              stimuli/3.jpeg              C             A
-AE             288.359       2.5          Testing        117          2             A              1.307        stimuli/2.jpeg              stimuli/3.jpeg              E             A
-CF             294.16        2.5          Testing        118          1             C              1.859        stimuli/6.jpeg              stimuli/4.jpeg              C             F
-BD             300.162       2.5          Testing        119          2             B              0.747        stimuli/5.jpeg              stimuli/1.jpeg              D             B
-CF             304.564       2.5          Testing        120          2             F              0.98         stimuli/6.jpeg              stimuli/4.jpeg              C             F
-BC             308.365       2.5          Testing        121          1             C              1.743        stimuli/6.jpeg              stimuli/1.jpeg              C             B
-AC             313.566       2.5          Testing        122          2             A              1.502        stimuli/6.jpeg              stimuli/3.jpeg              C             A
-BE             319.368       2.5          Testing        123          2             E              0.954        stimuli/1.jpeg              stimuli/2.jpeg              B             E
-BD             325.37        2.5          Testing        124          2             D              1.315        stimuli/1.jpeg              stimuli/5.jpeg              B             D
-CE             329.771       2.5          Testing        125          2             C              1.294        stimuli/2.jpeg              stimuli/6.jpeg              E             C
-CF             334.573       2.5          Testing        126          2             C              1.691        stimuli/4.jpeg              stimuli/6.jpeg              F             C
-AD             338.374       2.5          Testing        127          2             A              0.928        stimuli/5.jpeg              stimuli/3.jpeg              D             A
-BC             343.576       2.5          Testing        128          1             B              1.37         stimuli/1.jpeg              stimuli/6.jpeg              B             C
-BC             349.577       2.5          Testing        129          2             C              0.713        stimuli/1.jpeg              stimuli/6.jpeg              B             C
-CE             353.379       2.5          Testing        130          1             C              1.5          stimuli/6.jpeg              stimuli/2.jpeg              C             E
-DF             358.18        2.5          Testing        131          2             D              1.468        stimuli/4.jpeg              stimuli/5.jpeg              F             D
-AC             363.982       2.5          Testing        132          1             A              0.844        stimuli/3.jpeg              stimuli/6.jpeg              A             C
-AF             368.383       2.5          Testing        133          2             A              1.774        stimuli/4.jpeg              stimuli/3.jpeg              F             A
-AE             373.585       2.5          Testing        134          1             A              0.851        stimuli/3.jpeg              stimuli/2.jpeg              A             E
-BF             378.386       2.5          Testing        135          1             F              1.508        stimuli/4.jpeg              stimuli/1.jpeg              F             B
-BD             382.788       2.5          Testing        136          1             D              1.127        stimuli/5.jpeg              stimuli/1.jpeg              D             B
-AF             388.79        2.5          Testing        137          1             A              1.622        stimuli/3.jpeg              stimuli/4.jpeg              A             F
-BD             392.591       2.5          Testing        138          2             D              1.712        stimuli/1.jpeg              stimuli/5.jpeg              B             D
-BF             398.393       2.5          Testing        139          2             F              1.171        stimuli/1.jpeg              stimuli/4.jpeg              B             F
-AD             403.594       2.5          Testing        140          2             A              1.328        stimuli/5.jpeg              stimuli/3.jpeg              D             A
-BC             408.396       2.5          Testing        141          2             C              1.18         stimuli/1.jpeg              stimuli/6.jpeg              B             C
-BC             412.797       2.5          Testing        142          1             C              1.492        stimuli/6.jpeg              stimuli/1.jpeg              C             B
-BD             416.598       2.5          Testing        143          1             D              0.825        stimuli/5.jpeg              stimuli/1.jpeg              D             B
-DF             422.4         2.5          Testing        144          2             D              1.828        stimuli/4.jpeg              stimuli/5.jpeg              F             D
-BE             428.402       2.5          Testing        145          1             E              1.619        stimuli/2.jpeg              stimuli/1.jpeg              E             B
-AE             432.203       2.5          Testing        146          1             A              1.837        stimuli/3.jpeg              stimuli/2.jpeg              A             E
-AF             438.005       2.5          Testing        147          1             A              1.793        stimuli/3.jpeg              stimuli/4.jpeg              A             F
-BF             442.406       2.5          Testing        148          1             F              1.733        stimuli/4.jpeg              stimuli/1.jpeg              F             B
-DE             448.408       2.5          Testing        149          2             E              1.034        stimuli/5.jpeg              stimuli/2.jpeg              D             E
-DF             453.61        2.5          Testing        150          2             D              0.73         stimuli/4.jpeg              stimuli/5.jpeg              F             D
-BF             458.411       2.5          Testing        151          2             F              0.762        stimuli/1.jpeg              stimuli/4.jpeg              B             F
-BF             462.212       2.5          Testing        152          2             F              0.659        stimuli/1.jpeg              stimuli/4.jpeg              B             F
-BE             467.014       2.5          Testing        153          2             E              1.066        stimuli/1.jpeg              stimuli/2.jpeg              B             E
-DE             473.016       2.5          Testing        154          1             E              1.695        stimuli/2.jpeg              stimuli/5.jpeg              E             D
-AC             478.217       2.5          Testing        155          1             C              1.26         stimuli/6.jpeg              stimuli/3.jpeg              C             A
-CF             482.619       2.5          Testing        156          2             F              0.816        stimuli/6.jpeg              stimuli/4.jpeg              C             F
-CF             488.421       2.5          Testing        157          2             C              0.651        stimuli/4.jpeg              stimuli/6.jpeg              F             C
-AF             493.622       2.5          Testing        158          2             A              1.721        stimuli/4.jpeg              stimuli/3.jpeg              F             A
-AE             499.624       2.5          Testing        159          1             A              1.649        stimuli/3.jpeg              stimuli/2.jpeg              A             E
-AD             505.426       2.5          Testing        160          1             A              1.673        stimuli/3.jpeg              stimuli/5.jpeg              A             D
-BF             510.227       2.5          Testing        161          2             F              1.552        stimuli/1.jpeg              stimuli/4.jpeg              B             F
-BF             514.629       2.5          Testing        162          1             F              0.671        stimuli/4.jpeg              stimuli/1.jpeg              F             B
-AE             518.43        2.5          Testing        163          2             A              0.936        stimuli/2.jpeg              stimuli/3.jpeg              E             A
-BC             523.231       2.5          Testing        164          1             C              0.628        stimuli/6.jpeg              stimuli/1.jpeg              C             B
+onset         duration      trial_type    trial_number  correct_response            response      response_time stimulus_pair stim_file_left              stim_file_right             stim_type_left              stim_type_right
+ 8.307         2.5          Testing        61           2             F              0.866        BF            stimuli/6.jpeg              stimuli/1.jpeg              B             F
+ 13.508        2.5          Testing        62           2             A              1.628        AE            stimuli/4.jpeg              stimuli/3.jpeg              E             A
+ 18.31         2.5          Testing        63           2             A              1.258        AC            stimuli/5.jpeg              stimuli/3.jpeg              C             A
+ 24.111        2.5          Testing        64           2             A              0.995        AF            stimuli/1.jpeg              stimuli/3.jpeg              F             A
+ 30.113        2.5          Testing        65           2             A              1.408        AD            stimuli/2.jpeg              stimuli/3.jpeg              D             A
+ 33.914        2.5          Testing        66           1             C              1.377        CF            stimuli/5.jpeg              stimuli/1.jpeg              C             F
+ 38.316        2.5          Testing        67           2             A              0.923        AE            stimuli/4.jpeg              stimuli/3.jpeg              E             A
+ 44.318        2.5          Testing        68           1             A              1.592        AE            stimuli/3.jpeg              stimuli/4.jpeg              A             E
+ 48.719        2.5          Testing        69           2             C              1.48         CF            stimuli/1.jpeg              stimuli/5.jpeg              F             C
+ 53.52         2.5          Testing        70           1             D              1.272        DF            stimuli/2.jpeg              stimuli/1.jpeg              D             F
+ 58.722        2.5          Testing        71           1             E              1.306        DE            stimuli/4.jpeg              stimuli/2.jpeg              E             D
+ 62.523        2.5          Testing        72           2             A              1.024        AC            stimuli/5.jpeg              stimuli/3.jpeg              C             A
+ 68.325        2.5          Testing        73           1             F              1.314        BF            stimuli/1.jpeg              stimuli/6.jpeg              F             B
+ 73.527        2.5          Testing        74           2             A              0.628        AE            stimuli/4.jpeg              stimuli/3.jpeg              E             A
+ 78.328        2.5          Testing        75           1             F              1.506        BF            stimuli/1.jpeg              stimuli/6.jpeg              F             B
+ 82.129        2.5          Testing        76           2             E              0.991        BE            stimuli/6.jpeg              stimuli/4.jpeg              B             E
+ 86.531        2.5          Testing        77           1             E              1.871        DE            stimuli/4.jpeg              stimuli/2.jpeg              E             D
+ 92.533        2.5          Testing        78           2             A              1.584        AE            stimuli/4.jpeg              stimuli/3.jpeg              E             A
+ 98.334        2.5          Testing        79           1             C              0.965        BC            stimuli/5.jpeg              stimuli/6.jpeg              C             B
+ 102.736       2.5          Testing        80           1             A              0.865        AC            stimuli/3.jpeg              stimuli/5.jpeg              A             C
+ 108.537       2.5          Testing        81           1             A              0.666        AC            stimuli/3.jpeg              stimuli/5.jpeg              A             C
+ 114.539       2.5          Testing        82           2             E              0.953        DE            stimuli/2.jpeg              stimuli/4.jpeg              D             E
+ 118.341       2.5          Testing        83           2             C              1.552        BC            stimuli/6.jpeg              stimuli/5.jpeg              B             C
+ 123.142       2.5          Testing        84           2             A              1.614        AD            stimuli/2.jpeg              stimuli/3.jpeg              D             A
+ 128.344       2.5          Testing        85           1             A              0.863        AD            stimuli/3.jpeg              stimuli/2.jpeg              A             D
+ 132.145       2.5          Testing        86           2             D              1.136        BD            stimuli/6.jpeg              stimuli/2.jpeg              B             D
+ 137.346       2.5          Testing        87           1             A              1.486        AF            stimuli/3.jpeg              stimuli/1.jpeg              A             F
+ 141.748       2.5          Testing        88           1             A              0.811        AC            stimuli/3.jpeg              stimuli/5.jpeg              A             C
+ 147.75        2.5          Testing        89           1             C              0.912        BC            stimuli/5.jpeg              stimuli/6.jpeg              C             B
+ 153.552       2.5          Testing        90           1             E              1.156        BE            stimuli/4.jpeg              stimuli/6.jpeg              E             B
+ 158.353       2.5          Testing        91           1             D              1.778        BD            stimuli/2.jpeg              stimuli/6.jpeg              D             B
+ 162.754       2.5          Testing        92           1             E              1.334        BE            stimuli/4.jpeg              stimuli/6.jpeg              E             B
+ 168.756       2.5          Testing        93           2             A              1.803        AF            stimuli/1.jpeg              stimuli/3.jpeg              F             A
+ 174.558       2.5          Testing        94           1             A              1.749        AD            stimuli/3.jpeg              stimuli/2.jpeg              A             D
+ 179.76        2.5          Testing        95           2             A              1.151        AF            stimuli/1.jpeg              stimuli/3.jpeg              F             A
+ 184.561       2.5          Testing        96           2             C              1.472        BC            stimuli/6.jpeg              stimuli/5.jpeg              B             C
+ 188.362       2.5          Testing        97           1             B              1.42         BE            stimuli/6.jpeg              stimuli/4.jpeg              B             E
+ 194.164       2.5          Testing        98           2             C              1.406        CE            stimuli/4.jpeg              stimuli/5.jpeg              E             C
+ 198.565       2.5          Testing        99           2             A              0.983        AD            stimuli/2.jpeg              stimuli/3.jpeg              D             A
+ 202.366       2.5          Testing        100          2             A              1.023        AC            stimuli/5.jpeg              stimuli/3.jpeg              C             A
+ 207.168       2.5          Testing        101          1             A              1.579        AD            stimuli/3.jpeg              stimuli/2.jpeg              A             D
+ 213.17        2.5          Testing        102          1             A              1.031        AE            stimuli/3.jpeg              stimuli/4.jpeg              A             E
+ 218.372       2.5          Testing        103          1             C              1.732        CF            stimuli/5.jpeg              stimuli/1.jpeg              C             F
+ 224.373       2.5          Testing        104          2             C              1.267        CE            stimuli/4.jpeg              stimuli/5.jpeg              E             C
+ 228.175       2.5          Testing        105          2             D              1.168        BD            stimuli/6.jpeg              stimuli/2.jpeg              B             D
+ 232.576       2.5          Testing        106          1             F              0.85         BF            stimuli/1.jpeg              stimuli/6.jpeg              F             B
+ 237.377       2.5          Testing        107          1             A              1.867        AD            stimuli/3.jpeg              stimuli/2.jpeg              A             D
+ 243.179       2.5          Testing        108          2             C              1.375        CF            stimuli/1.jpeg              stimuli/5.jpeg              F             C
+ 248.381       2.5          Testing        109          2             D              1.313        DF            stimuli/1.jpeg              stimuli/2.jpeg              F             D
+ 254.383       2.5          Testing        110          1             F              1.714        CF            stimuli/1.jpeg              stimuli/5.jpeg              F             C
+ 258.784       2.5          Testing        111          2             B              1.505        BD            stimuli/2.jpeg              stimuli/6.jpeg              D             B
+ 263.986       2.5          Testing        112          1             A              1.342        AE            stimuli/3.jpeg              stimuli/4.jpeg              A             E
+ 268.787       2.5          Testing        113          2             B              1.617        BE            stimuli/4.jpeg              stimuli/6.jpeg              E             B
+ 272.588       2.5          Testing        114          2             D              1.213        DF            stimuli/1.jpeg              stimuli/2.jpeg              F             D
+ 278.39        2.5          Testing        115          1             F              1.549        BF            stimuli/1.jpeg              stimuli/6.jpeg              F             B
+ 284.392       2.5          Testing        116          2             A              1.406        AF            stimuli/1.jpeg              stimuli/3.jpeg              F             A
+ 289.193       2.5          Testing        117          2             A              1.021        AC            stimuli/5.jpeg              stimuli/3.jpeg              C             A
+ 294.995       2.5          Testing        118          1             D              0.807        DF            stimuli/2.jpeg              stimuli/1.jpeg              D             F
+ 300.197       2.5          Testing        119          1             C              1.81         CE            stimuli/5.jpeg              stimuli/4.jpeg              C             E
+ 304.598       2.5          Testing        120          1             A              0.872        AF            stimuli/3.jpeg              stimuli/1.jpeg              A             F
+ 308.399       2.5          Testing        121          2             A              1.215        AF            stimuli/1.jpeg              stimuli/3.jpeg              F             A
+ 314.201       2.5          Testing        122          2             F              1.865        BF            stimuli/6.jpeg              stimuli/1.jpeg              B             F
+ 319.003       2.5          Testing        123          2             D              1.268        BD            stimuli/6.jpeg              stimuli/2.jpeg              B             D
+ 325.005       2.5          Testing        124          1             A              1.241        AE            stimuli/3.jpeg              stimuli/4.jpeg              A             E
+ 328.806       2.5          Testing        125          1             A              1.066        AF            stimuli/3.jpeg              stimuli/1.jpeg              A             F
+ 333.207       2.5          Testing        126          1             E              0.665        DE            stimuli/4.jpeg              stimuli/2.jpeg              E             D
+ 338.409       2.5          Testing        127          2             F              1.068        BF            stimuli/6.jpeg              stimuli/1.jpeg              B             F
+ 343.21        2.5          Testing        128          2             B              1.154        BC            stimuli/5.jpeg              stimuli/6.jpeg              C             B
+ 349.012       2.5          Testing        129          2             D              0.857        BD            stimuli/6.jpeg              stimuli/2.jpeg              B             D
+ 355.014       2.5          Testing        130          2             C              1.743        BC            stimuli/6.jpeg              stimuli/5.jpeg              B             C
+ 359.415       2.5          Testing        131          1             A              1.117        AE            stimuli/3.jpeg              stimuli/4.jpeg              A             E
+ 363.216       2.5          Testing        132          1             D              1.323        BD            stimuli/2.jpeg              stimuli/6.jpeg              D             B
+ 368.418       2.5          Testing        133          2             F              1.46         BF            stimuli/6.jpeg              stimuli/1.jpeg              B             F
+ 374.42        2.5          Testing        134          1             A              1.44         AF            stimuli/3.jpeg              stimuli/1.jpeg              A             F
+ 379.622       2.5          Testing        135          2             F              0.768        BF            stimuli/6.jpeg              stimuli/1.jpeg              B             F
+ 384.023       2.5          Testing        136          1             A              1.68         AF            stimuli/3.jpeg              stimuli/1.jpeg              A             F
+ 387.824       2.5          Testing        137          2             D              0.944        DF            stimuli/1.jpeg              stimuli/2.jpeg              F             D
+ 392.626       2.5          Testing        138          2             C              0.865        BC            stimuli/6.jpeg              stimuli/5.jpeg              B             C
+ 398.427       2.5          Testing        139          1             C              1.465        CE            stimuli/5.jpeg              stimuli/4.jpeg              C             E
+ 403.629       2.5          Testing        140          2             C              1.319        BC            stimuli/6.jpeg              stimuli/5.jpeg              B             C
+ 409.431       2.5          Testing        141          1             A              0.764        AC            stimuli/3.jpeg              stimuli/5.jpeg              A             C
+ 415.433       2.5          Testing        142          1             B              1.346        BE            stimuli/6.jpeg              stimuli/4.jpeg              B             E
+ 420.234       2.5          Testing        143          2             B              0.97         BD            stimuli/2.jpeg              stimuli/6.jpeg              D             B
+ 424.635       2.5          Testing        144          1             E              1.335        BE            stimuli/4.jpeg              stimuli/6.jpeg              E             B
+ 428.437       2.5          Testing        145          1             A              1.544        AD            stimuli/3.jpeg              stimuli/2.jpeg              A             D
+ 434.238       2.5          Testing        146          2             A              1.404        AC            stimuli/5.jpeg              stimuli/3.jpeg              C             A
+ 439.44        2.5          Testing        147          1             D              1.524        DF            stimuli/2.jpeg              stimuli/1.jpeg              D             F
+ 443.241       2.5          Testing        148          1             F              0.969        BF            stimuli/1.jpeg              stimuli/6.jpeg              F             B
+ 447.643       2.5          Testing        149          1             B              0.974        BD            stimuli/6.jpeg              stimuli/2.jpeg              B             D
+ 452.444       2.5          Testing        150          2             E              1.614        BE            stimuli/6.jpeg              stimuli/4.jpeg              B             E
+ 458.446       2.5          Testing        151          1             E              1.269        AE            stimuli/4.jpeg              stimuli/3.jpeg              E             A
+ 462.847       2.5          Testing        152          1             C              0.629        BC            stimuli/5.jpeg              stimuli/6.jpeg              C             B
+ 467.649       2.5          Testing        153          1             D              0.645        DE            stimuli/2.jpeg              stimuli/4.jpeg              D             E
+ 473.651       2.5          Testing        154          1             D              0.976        BD            stimuli/2.jpeg              stimuli/6.jpeg              D             B
+ 478.852       2.5          Testing        155          2             E              1.868        DE            stimuli/2.jpeg              stimuli/4.jpeg              D             E
+ 482.653       2.5          Testing        156          1             B              0.904        BE            stimuli/6.jpeg              stimuli/4.jpeg              B             E
+ 488.455       2.5          Testing        157          2             C              0.85         CE            stimuli/4.jpeg              stimuli/5.jpeg              E             C
+ 494.457       2.5          Testing        158          1             C              1.746        CF            stimuli/5.jpeg              stimuli/1.jpeg              C             F
+ 498.858       2.5          Testing        159          2             B              1.508        BE            stimuli/4.jpeg              stimuli/6.jpeg              E             B
+ 504.06        2.5          Testing        160          1             A              1.483        AC            stimuli/3.jpeg              stimuli/5.jpeg              A             C
+ 507.861       2.5          Testing        161          1             C              1.057        BC            stimuli/5.jpeg              stimuli/6.jpeg              C             B
+ 512.663       2.5          Testing        162          2             A              0.904        AD            stimuli/2.jpeg              stimuli/3.jpeg              D             A
+ 518.464       2.5          Testing        163          2             A              0.963        AD            stimuli/2.jpeg              stimuli/3.jpeg              D             A
+ 523.666       2.5          Testing        164          1             C              0.998        CE            stimuli/5.jpeg              stimuli/4.jpeg              C             E
