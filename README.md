@@ -1,6 +1,11 @@
 # probabilistic-selection-task
 Version of the PST for DIVA, implemented in E-Prime.
 
+There are two versions in this repository: `PST_Diva_Train` and `PST_Diva_Scan`.
+`PST_Diva_Train` is for out-of-scanner training to ensure that participants understand the task.
+`PST_Diva_Scan` is the scanner task.
+This task has two runs: training and test.
+
 ## Implementation Notes
 1. This task is set up to work with FIU's scanner's BioPac.
 However, it was developed on a computer that does not have a serial port, which breaks the task if a serial port device is enabled.
