@@ -1,8 +1,11 @@
 # probabilistic-selection-task
 Version of the PST for DIVA, implemented in E-Prime.
 
-There are two versions in this repository: `PST_Diva_Train` and `PST_Diva_Scan`.
+There are two E-Prime tasks in this repository: `PST_Diva_Train` and `PST_Diva_Scan`.
+
 `PST_Diva_Train` is for out-of-scanner training to ensure that participants understand the task.
+The document `PS_task_training_script.docx` contains a script for walking the participant through the training task.
+
 `PST_Diva_Scan` is the scanner task.
 This task has two runs: training and test.
 
